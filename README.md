@@ -1,3 +1,6 @@
+SCGP v1.0
+===================
+
 💰 SCGP - Sistema de Control de Gastos Personales
 Descripción del Proyecto
 SCGP es una aplicación de escritorio simple y robusta diseñada para facilitar el control de tus finanzas personales. Permite registrar ingresos y gastos, visualizarlos por categorías y tipo, y calcular tu balance en tiempo real.
@@ -51,5 +54,6 @@ SCGP - Sistema de Control de Gastos Personales
 Versión: v1.0
 
 Autor: Fabian
+
 
 Fecha: Diciembre
