@@ -34,6 +34,7 @@ Matplotlib: Para la generación de gráficos.
 pywin32 y winshell: Utilizadas en INSTALLER.py para la creación de accesos directos en Windows.
 
 📦 Estructura del Repositorio
+
 main.py: Punto de entrada principal de la aplicación.
 
 scgp_app.py: Clase principal de la interfaz de usuario (Tkinter).
@@ -57,3 +58,4 @@ Autor: Fabian
 
 
 Fecha: Diciembre
+
