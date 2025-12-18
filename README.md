@@ -2,12 +2,13 @@ SCGP v1.0
 ===================
 
 💰 SCGP - Sistema de Control de Gastos Personales
-Descripción del Proyecto
+
 SCGP es una aplicación de escritorio simple y robusta diseñada para facilitar el control de tus finanzas personales. Permite registrar ingresos y gastos, visualizarlos por categorías y tipo, y calcular tu balance en tiempo real.
 
 La aplicación fue desarrollada en Python utilizando la librería Tkinter para la interfaz gráfica y SQLite para la persistencia de los datos, garantizando portabilidad y facilidad de uso.
 
 ✨ Características Principales
+
 Registro Intuitivo: Añade nuevos Ingresos o Gastos con facilidad, incluyendo monto, categoría y descripción.
 
 Categorización Detallada: Movimientos clasificados por categorías predefinidas (ej. Alimentación, Sueldo, Inversión).
@@ -21,6 +22,7 @@ Visualización Gráfica: Generación de gráficos (usando Matplotlib) para enten
 Base de Datos Local: Utiliza SQLite (gastos_personales.db), lo que significa que todos tus datos se almacenan de forma segura y local en tu equipo.
 
 🛠️ Tecnologías y Librerías
+
 El proyecto está construido con:
 
 Python 3.x
@@ -48,6 +50,7 @@ gastos_personales.db: El archivo de la base de datos. Se crea automáticamente s
 INSTALLER.py: Script para crear un acceso directo en el escritorio (enfocado en Windows).
 
 ⚠️ Advertencias Importantes
+
 ❌ No Borres ni Renombres los archivos clave (main.exe, gastos_personales.db, etc.). ❌ Ejecución del Instalador: INSTALAR.exe siempre debe ejecutarse desde la carpeta raíz de la aplicación para que pueda encontrar el archivo main.exe y el ícono correctamente.
 
 SCGP - Sistema de Control de Gastos Personales
@@ -58,4 +61,5 @@ Autor: Fabian
 
 
 Fecha: Diciembre
+
 
